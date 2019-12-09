@@ -1,0 +1,3 @@
+enter the input from the user 
+for loop to iterate
+
