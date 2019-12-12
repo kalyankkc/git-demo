@@ -1,1 +1,3 @@
 i am inside the file5
+
+try to delete me after inside the staged area
